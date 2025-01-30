@@ -1,0 +1,9 @@
+Test Cases:,,,,,,,,
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Assigned To,Remarks
+TC001,Verify Product Listing Page,Navigate to Product Listing Page,"Products should be listed correctly with images, titles, and prices",Products are displayed correctly,Passed,Medium,          -,Displayed successfully
+TC002,Check Product Detail Page with Dynamic Routing,Click on any product to navigate to the detail page,Product details should be displayed dynamically,Product details are displayed correctly with dynamic routing,Passed,Medium,          -,Displayed successfully
+TC003,Check Cart Functionality,Add product to cart > Navigate to cart,Added products should be displayed in the cart,Products are displayed in the cart correctly,Passed,Medium,          -,Displayed successfully
+TC004,Check Responsiveness,"Open website on different screen sizes (mobile, tablet, desktop)",Website should be fully responsive,Website is fully responsive on all devices,Passed,Medium,          -,Displayed successfully
+TC005,Verify Cross-Browser Compatibility,Open website on Chrome and Microsoft Edge,Website should function properly on both browsers,Website is working fine on both browsers,Passed,Medium,          -,Displayed successfully
+TC006,Verify Product Search Functionality,"Verify that the search results display the correct products matching the search query, including images, titles, and prices.","The products matching the search query should be displayed correctly with images, titles, and prices.",Products are displayed correctly as per the search query.,Passed,Medium,          -,Displayed successfully
+TC007,API Integration Testing,Fetch products using API and verify response,API should return correct product data,API response is correct,Passed,Medium,          -,Displayed successfully
